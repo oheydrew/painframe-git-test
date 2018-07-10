@@ -1,0 +1,9 @@
+# Test Git Repo - Git workflow
+
+<img src="painframe.png" width="400">
+
+#### Team Painframe test repo
+
+This is a simple test repo to test our Git Flow.
+
+Here is a line of text to mess with. Woo!
